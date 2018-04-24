@@ -23,7 +23,6 @@ from pywavefront import ObjParser
 import math
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy import ndimage
 from scipy import misc
 from numpy.linalg import inv
 
